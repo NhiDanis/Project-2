@@ -1,0 +1,105 @@
+html{
+    background-image: url(/img/background.jpg) ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.brand-logo{
+    font-family: 'Monoton', cursive;
+}
+
+.container-head {
+    max-width: 100%; 
+    margin-left: 0;
+    position: relative;
+    text-align: center;
+}
+.head-center{
+    position: absolute;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#header{
+    font-family: 'Monoton', cursive;
+    word-spacing: 15px;
+    color: rgb(88, 87, 87);
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    padding-top: 40px ;
+    height: 100%;
+    
+    background-color: rgba(139, 97, 55, 0);
+}
+
+nav{
+    background-color: black ;
+}
+
+
+.collection{
+    margin-top: 40px;
+}
+
+.card{
+    float: left;
+    margin-top: 10px;
+    margin-left: 40px;
+    padding-bottom: 20px;
+    padding-top: 10px; 
+    width: 220px;
+    height: 400px;
+    background-color: rgba(139, 97, 55, 0);
+    border: rgb(153, 104, 25) solid 1px;
+
+}
+#modal2,
+#modal1{
+    background-color: rgba(139, 97, 55, 0.787);
+    border: rgb(153, 104, 25) solid 1px;
+
+}
+ 
+
+p{
+    font-size: 35px;
+    color: rgb(192, 189, 189);
+    padding-top: 100px;
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+}
+.text-center {
+    text-align: center;
+}
+
+li{
+    text-align: left;
+    color: black;
+
+}
+
+.card-content{
+    color: black;
+}
+
+
+.deleteBtn,
+.updateBtn,
+.salesBtn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.center{
+    align-items: center;
+}
