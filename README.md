@@ -16,11 +16,11 @@
 * HTML
 * CSS
 * Materialize
-* 
-*  
+* Node JS
+* Npm 
 
 ## Resource preferences:
-* [Bootstrap](https://getbootstrap.com/)
+* [Npm](https://www.npmjs.com/)
 * [Materialize](https://materializecss.com/)
 
 ## Contributors:
@@ -30,7 +30,5 @@
 * [James Totah ](https://github.com/jtwob)
 
 ## Links
-* [Github Page]()
-
-## Contact information:
-* 
+* [Live App]()
+* [Github Repo]()
